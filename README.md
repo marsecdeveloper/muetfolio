@@ -23,3 +23,4 @@ Muetfolio is a Github pages , Netlify CMS react, Gatsbyjs based web portfolio pr
  https://www.netlify.com/
  and make your account 
 # netlify based deployment of Web Apps 
+# contributing to the project initiatve if you are willing to work on any of the features do contribute to the repo do fork and star repo also 
